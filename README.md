@@ -54,12 +54,16 @@ Socket programming finds applications in various domains, including web developm
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
 ##PROGRAMME:
+
 ##Client.py
 <img width="708" height="392" alt="Screenshot 2026-01-30 112446" src="https://github.com/user-attachments/assets/813dfc0b-3f2e-4969-9705-6e65b5ac9fc4" />
+
 ##Server.py
 <img width="891" height="403" alt="Screenshot 2026-01-30 112438" src="https://github.com/user-attachments/assets/53479157-c3f6-4541-bce0-8c7c9c204308" />
+
 ##OUTPUTS:
 <img width="625" height="193" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/67bb2fcf-b9b1-4dd5-8548-f447e63bd03f" />
+
 
 <img width="592" height="153" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/dd1384c6-78bb-4a6e-90ad-799f0ca3003c" />
 
