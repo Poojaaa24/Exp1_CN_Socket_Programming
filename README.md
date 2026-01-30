@@ -116,10 +116,7 @@ s.close()
 
 ## OUTPUTS:
 
-<img width="625" height="193" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/67bb2fcf-b9b1-4dd5-8548-f447e63bd03f" />
-
-
-<img width="592" height="153" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/dd1384c6-78bb-4a6e-90ad-799f0ca3003c" />
+<img width="1114" height="212" alt="Screenshot 2026-01-30 115900" src="https://github.com/user-attachments/assets/1f9a9dda-d4eb-41b3-9e3d-d5d22ab91a05" />
 
 
 
