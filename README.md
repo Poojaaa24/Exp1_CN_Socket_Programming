@@ -73,10 +73,10 @@ Socket programming finds applications in various domains, including web developm
 9. Stop the experiment.
    
 
-##PROGRAMME:
+## PROGRAMME:
 
-##Client.py
-
+## Client.py
+```
 import socket             
 # next create a socket object 
 s = socket.socket()         
@@ -92,9 +92,10 @@ while True:
   c.send('Thank you for connecting'.encode()) 
   # Close the connection with the client 
 c.close()
+```
 
-
-##Server.py
+## Server.py
+```
 # Import socket module 
 import socket             
 
@@ -111,9 +112,10 @@ s.connect(('127.0.0.1', port))
 print (s.recv(1024).decode())
 # close the connection 
 s.close()
+```
 
+## OUTPUTS:
 
-##OUTPUTS:
 <img width="625" height="193" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/67bb2fcf-b9b1-4dd5-8548-f447e63bd03f" />
 
 
