@@ -75,7 +75,7 @@ Socket programming finds applications in various domains, including web developm
 
 ## PROGRAMME:
 
-## Client.py
+## Server.py
 ```
 import socket             
 # next create a socket object 
@@ -94,7 +94,7 @@ while True:
 c.close()
 ```
 
-## Server.py
+## Client.py
 ```
 # Import socket module 
 import socket             
